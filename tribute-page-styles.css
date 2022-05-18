@@ -1,0 +1,41 @@
+body {
+    font-family: monospace;
+    background-color: #b2cede;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  div{
+    border-radius: 25%;
+    background-color: #6dc0d5;
+  }
+  #image {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  #img-caption {
+    text-align: center;
+  }
+  #title {
+    font-size: 3vw;
+  }
+  h2{
+    font-size: 1.3vw;
+  }
+  h3{
+    font-size: 1vw;
+  }
+  p, li{
+    font-size: .8vw
+  }
+  a{
+    color: #0645ad;
+  }
+  figcaption {
+    font-size: .85vw;
+  }
+  
